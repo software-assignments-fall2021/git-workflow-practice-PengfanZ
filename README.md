@@ -8,7 +8,7 @@ One of the reasons we use React.js is that it makes our development of front-end
 
 That is a truly surprising article. I cannot believe something can beat powerful React. I gotta say you provided me with something new to learn.
 
-### Daniel(Mingqian) Sun Comment:
+### Daniel Sun (ms12492) Comment:
 
 This is an impressing article. It is the first time I heard about Next.js. I cannot believe that there is a framework that is much faster and easier to use than React.js. Hope oneday I can use it in my project.
 
