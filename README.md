@@ -10,4 +10,4 @@ One of the reasons we use React.js is that it makes our development of front-end
 
 That is a truly surprising article. I cannot believe something can beat powerful React. I gotta say you provided me with something new to learn.
 
-END END
+END END END END
