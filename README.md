@@ -13,3 +13,7 @@ That is a truly surprising article. I cannot believe something can beat powerful
 This is an impressing article. It is the first time I heard about Next.js. I cannot believe that there is a framework that is much faster and easier to use than React.js. Hope oneday I can use it in my project.
 
 END END END END
+
+### Yaolin Zhang (yz6813) Comment:
+
+I found this article very insteresting. Even though Next is definitely not as popular as React right now, the article has shown some of real advantages using Next over React. I believe as it gets more improvements and flexibility it will become widely adpoted by developers.
