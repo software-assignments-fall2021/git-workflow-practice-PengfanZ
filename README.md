@@ -17,3 +17,7 @@ END END END END
 ### Yaolin Zhang (yz6813) Comment:
 
 I found this article very insteresting. Even though Next is definitely not as popular as React right now, the article has shown some of real advantages using Next over React. I believe as it gets more improvements and flexibility it will become widely adpoted by developers.
+
+### Letian Ye (ly1339) Comment:
+
+Helpful article that introduced Node.js and React to me, and also about their pros and cons comparision. I know more about these two from-end frameworks now, thanks!
